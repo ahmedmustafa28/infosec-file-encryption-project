@@ -1,0 +1,2 @@
+Hello, this is my secret file!
+This is a test for encryption and hashing. 
